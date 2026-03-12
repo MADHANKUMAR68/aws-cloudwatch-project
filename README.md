@@ -9,6 +9,6 @@ STEP3 :After that in your terminal run the python program (cpuspike.py)..after f
 
 STEP4 :Check your instance state in cloudwatch its already get spike the cpuutilization..
 
-STEP4 :Check your mail and confirm the notification from AWS..
+STEP5 :Check your email and confirm the notification from AWS..
 
 that's it..
